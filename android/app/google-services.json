@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "210802296993",
+    "project_id": "activex-2cf1f",
+    "storage_bucket": "activex-2cf1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210802296993:android:c44fc1e689e63c815e88e0",
+        "android_client_info": {
+          "package_name": "com.example.activex_fitness_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210802296993-iin38eb3sn40shiv94mii1em0cpomuhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmRdT2vag--H_x13CNfwlJu-Kt0e0_5cE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210802296993-iin38eb3sn40shiv94mii1em0cpomuhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
